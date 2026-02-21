@@ -24,5 +24,19 @@ Google Colab
 ## 🎯 Internship
 This project is developed as part of CodeAlpha Machine Learning Internship.
 
-## 🔗 Author
+## 📂 Dataset
+
+This project uses the Breast Cancer dataset available in the Scikit-learn library.
+
+It contains medical features such as radius, texture, perimeter, area, and smoothness.
+
+The target variable indicates whether the tumor is:
+
+0 → No Disease (Benign)
+
+1 → Disease (Malignant)
+
+Total Samples: 569
+
+This dataset is commonly used for machine learning classification practice.## 🔗 Author
 Ranjith R
